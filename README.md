@@ -12,3 +12,4 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about Why I moved fromm Engineering to Data science.
 - ⚡ Fun fact: I was once in the national team of Table Tennis of Mauritius, and I like cosplaying.
+-->
