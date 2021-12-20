@@ -7,4 +7,4 @@
 - 💬 Ask me about Why I moved fromm Engineering to Data science.
 - ⚡ Fun fact: I was once in the national team of Table Tennis of Mauritius, and I like cosplaying.
 
-Disclaimer: My portfolio is till under construction (21/12/16)
+Please note: My portfolio is till under construction (21/12/16)
